@@ -8,10 +8,11 @@ The rapid advancements in speech synthesis and voice conversion technologies hav
 ### RUN！！！！！！！ 🏃
 ```
 python train.sh --yaml
+```
 
 ### Acknowledgements
-```bibtex
 [CLEAR!!!!!!](https://clear-benchmark.github.io/)
+```bibtex
 @inproceedings{lin2021clear,
   title={The clear benchmark: Continual learning on real-world imagery},
   author={Lin, Zhiqiu and Shi, Jia and Pathak, Deepak and Ramanan, Deva},
